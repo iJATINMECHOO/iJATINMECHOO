@@ -8,3 +8,4 @@ Hey, I'm Jatin Mechoo! 👋
 - 😄 Pronouns: HE/HIS
 - ⚡ Fun fact: Only about 10% of world's currency is physical money, the rest only exits on computers. 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iJATINMECHOO&theme=radical)
